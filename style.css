@@ -60,3 +60,18 @@ body{
     background-color: var(--botao-ativo);
     border-bottom: 4px solid var(--verde);
 }
+.abas-texto{
+    background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: .0.040px.40px;
+}
+.botao.ativo{
+    background-color: var(--texto-fundo);
+    border-bottom: 4px solid var(--azul);
+}
+.aba-conteudo.ativo{
+    display: block;
+}
+.aba-conteudo{
+    display: none;
+}
